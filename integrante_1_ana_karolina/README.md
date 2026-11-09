@@ -1,0 +1,31 @@
+# Ana Karolina — Meios de transporte por raça
+
+**Projeto:** Números que Falam — Descobrindo o Brasil · Persona 5 (Transporte e Mobilidade Urbana)
+**Pergunta da persona que esta parte responde:** P2 — % de transporte público × particular × ativo (por raça)
+**Fonte:** IBGE, Censo Demográfico 2022 — SIDRA 10330
+
+## Arquivos
+| Arquivo | O que é |
+|---|---|
+| `etl.py` | Coleta (API do SIDRA/IBGE) + tratamento + gravação da base tratada |
+| `estatisticas.py` | Cálculos estatísticos (média, mediana, moda, quartis, IQR, amplitude, variância, desvio padrão, outliers) |
+| `painel.py` | Tela no Streamlit no padrão do repositório Graficos: matplotlib + seaborn, 3 linhas de 3 gráficos com **Análise** embaixo de cada um, e uma linha de tabelas. Filtros: região, UF, cor ou raça, meio de transporte e mínimo de trabalhadores. |
+| `dados/` | Base IBGE tratada: `transporte_raca_uf.csv`, `transporte_raca_municipio.csv.gz` |
+| `analise.md` | Análise descritiva com os resultados e as respostas às perguntas |
+
+## Bibliotecas
+`pandas`, `numpy`, `matplotlib`, `seaborn`, `streamlit` (e `requests` + `truststore` para a ETL)
+
+## Como rodar (a partir da pasta do projeto, com o ambiente virtual ativo)
+1. Baixar e tratar os dados (só precisa uma vez; os dados já estão em `dados/`):
+   ```
+   python -m integrante_1_ana_karolina.etl
+   ```
+2. Abrir o painel:
+   ```
+   streamlit run integrante_1_ana_karolina/painel.py
+   ```
+
+## Integração com o dashboard do grupo
+O `painel.py` segue o padrão do grupo (`docs/padrao_integracao.md`): o `app.py` final chama
+`carregar_dados()` e `render(dados, filtros)`.

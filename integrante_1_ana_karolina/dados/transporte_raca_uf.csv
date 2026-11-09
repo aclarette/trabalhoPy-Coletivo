@@ -1,0 +1,2311 @@
+ano,nivel,cod_ibge,local,uf,regiao,meio,raca,pessoas,grupo_modal,fonte_tabela
+2022,Brasil,1,Brasil,,,A pé,Branca,4717565.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,A pé,Preta,1545673.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,A pé,Amarela,40311.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,A pé,Parda,5549666.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,A pé,Indígena,74404.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,Bicicleta,Branca,1376474.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,Bicicleta,Preta,609391.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,Bicicleta,Amarela,7468.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,Bicicleta,Parda,2169870.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,Bicicleta,Indígena,18954.0,Ativo,SIDRA 10330
+2022,Brasil,1,Brasil,,,Motocicleta,Branca,4060410.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Motocicleta,Preta,1173417.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Motocicleta,Amarela,19697.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Motocicleta,Parda,5582750.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Motocicleta,Indígena,41757.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Mototáxi,Branca,169261.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Mototáxi,Preta,60110.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Mototáxi,Amarela,970.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Mototáxi,Parda,245287.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Mototáxi,Indígena,2316.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Automóvel,Branca,12732588.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Automóvel,Preta,1604509.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Automóvel,Amarela,160733.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Automóvel,Parda,6894992.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Automóvel,Indígena,32897.0,Particular,SIDRA 10330
+2022,Brasil,1,Brasil,,,Táxi,Branca,208978.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Táxi,Preta,40440.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Táxi,Amarela,2931.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Táxi,Parda,135574.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Táxi,Indígena,1968.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Van,Branca,348528.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Van,Preta,120447.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Van,Amarela,1882.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Van,Parda,398212.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Van,Indígena,2373.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Ônibus,Branca,5195058.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Ônibus,Preta,2260520.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Ônibus,Amarela,34971.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Ônibus,Parda,6504692.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Ônibus,Indígena,35228.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,BRT,Branca,70825.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,BRT,Preta,39360.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,BRT,Amarela,736.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,BRT,Parda,90549.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,BRT,Indígena,364.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Trem ou metrô,Branca,518103.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Trem ou metrô,Preta,166388.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Trem ou metrô,Amarela,13569.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Trem ou metrô,Parda,391077.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Trem ou metrô,Indígena,1603.0,Público,SIDRA 10330
+2022,Brasil,1,Brasil,,,Pau de arara,Branca,97959.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Pau de arara,Preta,19271.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Pau de arara,Amarela,707.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Pau de arara,Parda,85772.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Pau de arara,Indígena,555.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação grande,Branca,17706.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação grande,Preta,5732.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação grande,Amarela,166.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação grande,Parda,21871.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação grande,Indígena,670.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação pequena,Branca,19623.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação pequena,Preta,14649.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação pequena,Amarela,251.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação pequena,Parda,77667.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Embarcação pequena,Indígena,6048.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Outros meios,Branca,135984.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Outros meios,Preta,38377.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Outros meios,Amarela,1230.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Outros meios,Parda,139260.0,Outros,SIDRA 10330
+2022,Brasil,1,Brasil,,,Outros meios,Indígena,2461.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,A pé,Branca,127324.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,A pé,Preta,82829.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,A pé,Amarela,1317.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,A pé,Parda,492989.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,A pé,Indígena,30114.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,Bicicleta,Branca,75230.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,Bicicleta,Preta,63743.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,Bicicleta,Amarela,700.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,Bicicleta,Parda,309903.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,Bicicleta,Indígena,3872.0,Ativo,SIDRA 10330
+2022,Região,1,Norte,,Norte,Motocicleta,Branca,258048.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Motocicleta,Preta,146504.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Motocicleta,Amarela,2150.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Motocicleta,Parda,854709.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Motocicleta,Indígena,12371.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Mototáxi,Branca,13312.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Mototáxi,Preta,6387.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Mototáxi,Amarela,28.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Mototáxi,Parda,46845.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Mototáxi,Indígena,1226.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Automóvel,Branca,320472.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Automóvel,Preta,86022.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Automóvel,Amarela,4062.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Automóvel,Parda,554501.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Automóvel,Indígena,4451.0,Particular,SIDRA 10330
+2022,Região,1,Norte,,Norte,Táxi,Branca,8567.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Táxi,Preta,2871.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Táxi,Amarela,66.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Táxi,Parda,18325.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Táxi,Indígena,1002.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Van,Branca,7724.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Van,Preta,3793.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Van,Amarela,36.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Van,Parda,27279.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Van,Indígena,155.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Ônibus,Branca,137003.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Ônibus,Preta,79922.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Ônibus,Amarela,1046.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Ônibus,Parda,475401.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Ônibus,Indígena,4234.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,BRT,Branca,1152.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,BRT,Preta,561.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,BRT,Parda,3532.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,BRT,Indígena,24.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Trem ou metrô,Branca,24.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Trem ou metrô,Preta,16.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Trem ou metrô,Parda,24.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,Região,1,Norte,,Norte,Pau de arara,Branca,3209.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Pau de arara,Preta,1721.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Pau de arara,Amarela,11.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Pau de arara,Parda,8244.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Pau de arara,Indígena,108.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação grande,Branca,1908.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação grande,Preta,1563.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação grande,Amarela,60.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação grande,Parda,9622.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação grande,Indígena,540.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação pequena,Branca,8644.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação pequena,Preta,7091.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação pequena,Amarela,58.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação pequena,Parda,56045.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Embarcação pequena,Indígena,5712.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Outros meios,Branca,5886.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Outros meios,Preta,3526.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Outros meios,Amarela,39.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Outros meios,Parda,22607.0,Outros,SIDRA 10330
+2022,Região,1,Norte,,Norte,Outros meios,Indígena,1659.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,A pé,Branca,805452.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,A pé,Preta,594336.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,A pé,Amarela,5007.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,A pé,Parda,2073193.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,A pé,Indígena,25111.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Bicicleta,Branca,199525.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Bicicleta,Preta,189323.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Bicicleta,Amarela,1175.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Bicicleta,Parda,627267.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Bicicleta,Indígena,5699.0,Ativo,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Motocicleta,Branca,978913.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Motocicleta,Preta,503778.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Motocicleta,Amarela,4349.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Motocicleta,Parda,2363632.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Motocicleta,Indígena,17942.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Mototáxi,Branca,43999.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Mototáxi,Preta,27172.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Mototáxi,Amarela,190.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Mototáxi,Parda,98767.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Mototáxi,Indígena,658.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Automóvel,Branca,1169970.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Automóvel,Preta,348619.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Automóvel,Amarela,5248.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Automóvel,Parda,1517806.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Automóvel,Indígena,9168.0,Particular,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Táxi,Branca,35446.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Táxi,Preta,14486.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Táxi,Amarela,133.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Táxi,Parda,51892.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Táxi,Indígena,395.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Van,Branca,48939.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Van,Preta,40851.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Van,Amarela,248.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Van,Parda,122891.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Van,Indígena,1146.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Ônibus,Branca,551123.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Ônibus,Preta,505488.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Ônibus,Amarela,2780.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Ônibus,Parda,1370556.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Ônibus,Indígena,9816.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,BRT,Branca,5365.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,BRT,Preta,5158.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,BRT,Amarela,38.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,BRT,Parda,10757.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,BRT,Indígena,54.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Trem ou metrô,Branca,11465.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Trem ou metrô,Preta,11827.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Trem ou metrô,Amarela,71.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Trem ou metrô,Parda,27496.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Trem ou metrô,Indígena,100.0,Público,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Pau de arara,Branca,8925.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Pau de arara,Preta,4994.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Pau de arara,Amarela,40.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Pau de arara,Parda,20470.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Pau de arara,Indígena,132.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação grande,Branca,1333.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação grande,Preta,1600.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação grande,Parda,3440.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação grande,Indígena,74.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação pequena,Branca,2943.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação pequena,Preta,5766.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação pequena,Amarela,62.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação pequena,Parda,14079.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Embarcação pequena,Indígena,207.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Outros meios,Branca,17671.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Outros meios,Preta,12722.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Outros meios,Amarela,87.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Outros meios,Parda,43399.0,Outros,SIDRA 10330
+2022,Região,2,Nordeste,,Nordeste,Outros meios,Indígena,445.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,A pé,Branca,2226222.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,A pé,Preta,663822.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,A pé,Amarela,24710.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,A pé,Parda,2120047.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,A pé,Indígena,8566.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Bicicleta,Branca,596434.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Bicicleta,Preta,241770.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Bicicleta,Amarela,3282.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Bicicleta,Parda,773546.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Bicicleta,Indígena,2706.0,Ativo,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Motocicleta,Branca,1577812.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Motocicleta,Preta,332835.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Motocicleta,Amarela,7540.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Motocicleta,Parda,1354439.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Motocicleta,Indígena,3487.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Mototáxi,Branca,66663.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Mototáxi,Preta,19005.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Mototáxi,Amarela,489.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Mototáxi,Parda,64683.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Mototáxi,Indígena,244.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Automóvel,Branca,6142681.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Automóvel,Preta,780521.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Automóvel,Amarela,108926.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Automóvel,Parda,2888167.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Automóvel,Indígena,8579.0,Particular,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Táxi,Branca,105164.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Táxi,Preta,15561.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Táxi,Amarela,2124.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Táxi,Parda,44236.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Táxi,Indígena,292.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Van,Branca,186939.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Van,Preta,59988.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Van,Amarela,1383.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Van,Parda,185980.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Van,Indígena,488.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Ônibus,Branca,3084288.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Ônibus,Preta,1317359.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Ônibus,Amarela,24256.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Ônibus,Parda,3505169.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Ônibus,Indígena,10657.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,BRT,Branca,54037.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,BRT,Preta,29467.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,BRT,Amarela,559.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,BRT,Parda,63359.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,BRT,Indígena,235.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Trem ou metrô,Branca,472976.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Trem ou metrô,Preta,147729.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Trem ou metrô,Amarela,13309.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Trem ou metrô,Parda,344777.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Trem ou metrô,Indígena,1441.0,Público,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Pau de arara,Branca,45657.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Pau de arara,Preta,8557.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Pau de arara,Amarela,459.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Pau de arara,Parda,36015.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Pau de arara,Indígena,99.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação grande,Branca,10628.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação grande,Preta,1965.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação grande,Amarela,55.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação grande,Parda,6577.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação grande,Indígena,49.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação pequena,Branca,4315.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação pequena,Preta,1326.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação pequena,Amarela,114.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação pequena,Parda,4587.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Embarcação pequena,Indígena,10.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Outros meios,Branca,66622.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Outros meios,Preta,16100.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Outros meios,Amarela,819.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Outros meios,Parda,48827.0,Outros,SIDRA 10330
+2022,Região,3,Sudeste,,Sudeste,Outros meios,Indígena,162.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,A pé,Branca,1347608.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,A pé,Preta,123967.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,A pé,Amarela,7251.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,A pé,Parda,488578.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,A pé,Indígena,4967.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,Bicicleta,Branca,384494.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,Bicicleta,Preta,55651.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,Bicicleta,Amarela,1366.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,Bicicleta,Parda,198873.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,Bicicleta,Indígena,1261.0,Ativo,SIDRA 10330
+2022,Região,4,Sul,,Sul,Motocicleta,Branca,874141.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Motocicleta,Preta,64481.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Motocicleta,Amarela,3133.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Motocicleta,Parda,340004.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Motocicleta,Indígena,1648.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Mototáxi,Branca,32463.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Mototáxi,Preta,2713.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Mototáxi,Amarela,86.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Mototáxi,Parda,11501.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Mototáxi,Indígena,29.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Automóvel,Branca,4052425.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Automóvel,Preta,199685.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Automóvel,Amarela,28865.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Automóvel,Parda,923926.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Automóvel,Indígena,5270.0,Particular,SIDRA 10330
+2022,Região,4,Sul,,Sul,Táxi,Branca,49319.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Táxi,Preta,5006.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Táxi,Amarela,466.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Táxi,Parda,10746.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Táxi,Indígena,148.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Van,Branca,93597.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Van,Preta,10987.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Van,Amarela,167.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Van,Parda,40064.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Van,Indígena,365.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Ônibus,Branca,1130559.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Ônibus,Preta,199413.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Ônibus,Amarela,4449.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Ônibus,Parda,527037.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Ônibus,Indígena,5645.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,BRT,Branca,4304.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,BRT,Preta,479.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,BRT,Amarela,90.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,BRT,Parda,1348.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Trem ou metrô,Branca,20495.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Trem ou metrô,Preta,2790.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Trem ou metrô,Amarela,39.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Trem ou metrô,Parda,4093.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Trem ou metrô,Indígena,21.0,Público,SIDRA 10330
+2022,Região,4,Sul,,Sul,Pau de arara,Branca,30304.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Pau de arara,Preta,1835.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Pau de arara,Amarela,117.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Pau de arara,Parda,9473.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Pau de arara,Indígena,102.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação grande,Branca,3351.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação grande,Preta,400.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação grande,Amarela,30.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação grande,Parda,1318.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação grande,Indígena,2.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação pequena,Branca,3361.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação pequena,Preta,279.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação pequena,Amarela,17.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação pequena,Parda,1728.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Embarcação pequena,Indígena,14.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Outros meios,Branca,37518.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Outros meios,Preta,2849.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Outros meios,Amarela,192.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Outros meios,Parda,11990.0,Outros,SIDRA 10330
+2022,Região,4,Sul,,Sul,Outros meios,Indígena,104.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,A pé,Branca,210959.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,A pé,Preta,80719.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,A pé,Amarela,2027.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,A pé,Parda,374858.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,A pé,Indígena,5646.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Bicicleta,Branca,120792.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Bicicleta,Preta,58906.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Bicicleta,Amarela,945.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Bicicleta,Parda,260280.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Bicicleta,Indígena,5415.0,Ativo,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Motocicleta,Branca,371496.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Motocicleta,Preta,125819.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Motocicleta,Amarela,2526.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Motocicleta,Parda,669965.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Motocicleta,Indígena,6309.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Mototáxi,Branca,12824.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Mototáxi,Preta,4834.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Mototáxi,Amarela,176.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Mototáxi,Parda,23491.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Mototáxi,Indígena,160.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Automóvel,Branca,1047040.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Automóvel,Preta,189662.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Automóvel,Amarela,13630.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Automóvel,Parda,1010593.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Automóvel,Indígena,5430.0,Particular,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Táxi,Branca,10481.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Táxi,Preta,2516.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Táxi,Amarela,141.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Táxi,Parda,10376.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Táxi,Indígena,131.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Van,Branca,11329.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Van,Preta,4827.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Van,Amarela,47.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Van,Parda,21997.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Van,Indígena,218.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Ônibus,Branca,292086.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Ônibus,Preta,158338.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Ônibus,Amarela,2440.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Ônibus,Parda,626529.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Ônibus,Indígena,4876.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,BRT,Branca,5966.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,BRT,Preta,3695.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,BRT,Amarela,49.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,BRT,Parda,11552.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,BRT,Indígena,51.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Trem ou metrô,Branca,13144.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Trem ou metrô,Preta,4026.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Trem ou metrô,Amarela,150.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Trem ou metrô,Parda,14686.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Trem ou metrô,Indígena,41.0,Público,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Pau de arara,Branca,9865.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Pau de arara,Preta,2164.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Pau de arara,Amarela,80.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Pau de arara,Parda,11571.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Pau de arara,Indígena,114.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação grande,Branca,485.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação grande,Preta,204.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação grande,Amarela,20.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação grande,Parda,914.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação grande,Indígena,5.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação pequena,Branca,361.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação pequena,Preta,188.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação pequena,Parda,1229.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Embarcação pequena,Indígena,105.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Outros meios,Branca,8287.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Outros meios,Preta,3180.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Outros meios,Amarela,93.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Outros meios,Parda,12436.0,Outros,SIDRA 10330
+2022,Região,5,Centro-Oeste,,Centro-Oeste,Outros meios,Indígena,91.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,A pé,Branca,12438.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,A pé,Preta,5054.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,A pé,Amarela,112.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,A pé,Parda,27806.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,A pé,Indígena,634.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Bicicleta,Branca,10522.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Bicicleta,Preta,6769.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Bicicleta,Amarela,140.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Bicicleta,Parda,33077.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Bicicleta,Indígena,328.0,Ativo,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Motocicleta,Branca,55770.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Motocicleta,Preta,21311.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Motocicleta,Amarela,412.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Motocicleta,Parda,115469.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Motocicleta,Indígena,899.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Mototáxi,Branca,1166.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Mototáxi,Preta,573.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Mototáxi,Amarela,11.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Mototáxi,Parda,2655.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Mototáxi,Indígena,8.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Automóvel,Branca,51850.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Automóvel,Preta,11067.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Automóvel,Amarela,545.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Automóvel,Parda,66354.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Automóvel,Indígena,271.0,Particular,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Táxi,Branca,388.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Táxi,Preta,159.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Táxi,Parda,942.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Táxi,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Van,Branca,313.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Van,Preta,96.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Van,Parda,678.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Van,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Ônibus,Branca,4083.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Ônibus,Preta,2127.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Ônibus,Amarela,80.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Ônibus,Parda,11327.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Ônibus,Indígena,40.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Pau de arara,Branca,682.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Pau de arara,Preta,319.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Pau de arara,Parda,1443.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Pau de arara,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação grande,Branca,61.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação grande,Preta,85.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação grande,Parda,97.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação grande,Indígena,7.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação pequena,Branca,111.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação pequena,Preta,70.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação pequena,Parda,346.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Embarcação pequena,Indígena,35.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Outros meios,Branca,468.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Outros meios,Preta,223.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Outros meios,Parda,783.0,Outros,SIDRA 10330
+2022,UF,11,Rondônia,RO,Norte,Outros meios,Indígena,9.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,A pé,Branca,6909.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,A pé,Preta,3967.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,A pé,Amarela,121.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,A pé,Parda,24103.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,A pé,Indígena,1278.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Bicicleta,Branca,5158.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Bicicleta,Preta,3903.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Bicicleta,Amarela,85.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Bicicleta,Parda,19504.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Bicicleta,Indígena,174.0,Ativo,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Motocicleta,Branca,14463.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Motocicleta,Preta,7454.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Motocicleta,Amarela,165.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Motocicleta,Parda,46647.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Motocicleta,Indígena,256.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Mototáxi,Branca,566.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Mototáxi,Preta,279.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Mototáxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Mototáxi,Parda,1559.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Mototáxi,Indígena,9.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Automóvel,Branca,16914.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Automóvel,Preta,4487.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Automóvel,Amarela,171.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Automóvel,Parda,32750.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Automóvel,Indígena,131.0,Particular,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Táxi,Branca,404.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Táxi,Preta,186.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Táxi,Parda,856.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Táxi,Indígena,20.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Van,Branca,50.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Van,Preta,65.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Van,Parda,339.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Van,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Ônibus,Branca,3102.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Ônibus,Preta,1768.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Ônibus,Amarela,27.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Ônibus,Parda,9900.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Ônibus,Indígena,58.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Pau de arara,Branca,204.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Pau de arara,Preta,178.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Pau de arara,Parda,464.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Pau de arara,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação grande,Branca,60.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação grande,Preta,93.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação grande,Parda,141.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação grande,Indígena,21.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação pequena,Branca,324.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação pequena,Preta,152.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação pequena,Amarela,12.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação pequena,Parda,1390.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Embarcação pequena,Indígena,175.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Outros meios,Branca,150.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Outros meios,Preta,137.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Outros meios,Parda,720.0,Outros,SIDRA 10330
+2022,UF,12,Acre,AC,Norte,Outros meios,Indígena,14.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,A pé,Branca,25700.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,A pé,Preta,12151.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,A pé,Amarela,258.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,A pé,Parda,124028.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,A pé,Indígena,20687.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Bicicleta,Branca,4211.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Bicicleta,Preta,2363.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Bicicleta,Amarela,27.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Bicicleta,Parda,19547.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Bicicleta,Indígena,1491.0,Ativo,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Motocicleta,Branca,29828.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Motocicleta,Preta,11785.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Motocicleta,Amarela,180.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Motocicleta,Parda,133416.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Motocicleta,Indígena,6744.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Mototáxi,Branca,3023.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Mototáxi,Preta,1033.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Mototáxi,Amarela,6.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Mototáxi,Parda,13430.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Mototáxi,Indígena,838.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Automóvel,Branca,62407.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Automóvel,Preta,10798.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Automóvel,Amarela,1238.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Automóvel,Parda,117964.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Automóvel,Indígena,1583.0,Particular,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Táxi,Branca,2529.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Táxi,Preta,599.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Táxi,Amarela,22.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Táxi,Parda,5713.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Táxi,Indígena,753.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Van,Branca,3410.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Van,Preta,1086.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Van,Parda,12691.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Van,Indígena,68.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Ônibus,Branca,45461.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Ônibus,Preta,18127.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Ônibus,Amarela,321.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Ônibus,Parda,179097.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Ônibus,Indígena,2610.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,BRT,Branca,536.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,BRT,Preta,258.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,BRT,Parda,2194.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,BRT,Indígena,24.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Pau de arara,Branca,355.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Pau de arara,Preta,175.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Pau de arara,Parda,992.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Pau de arara,Indígena,42.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação grande,Branca,558.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação grande,Preta,222.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação grande,Amarela,22.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação grande,Parda,3035.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação grande,Indígena,427.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação pequena,Branca,3088.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação pequena,Preta,1678.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação pequena,Amarela,25.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação pequena,Parda,22568.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Embarcação pequena,Indígena,5107.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Outros meios,Branca,2388.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Outros meios,Preta,813.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Outros meios,Amarela,27.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Outros meios,Parda,10723.0,Outros,SIDRA 10330
+2022,UF,13,Amazonas,AM,Norte,Outros meios,Indígena,1434.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,A pé,Branca,3950.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,A pé,Preta,2722.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,A pé,Amarela,34.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,A pé,Parda,11126.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,A pé,Indígena,3290.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Bicicleta,Branca,3701.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Bicicleta,Preta,2822.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Bicicleta,Amarela,37.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Bicicleta,Parda,11649.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Bicicleta,Indígena,992.0,Ativo,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Motocicleta,Branca,7601.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Motocicleta,Preta,4222.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Motocicleta,Amarela,46.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Motocicleta,Parda,28725.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Motocicleta,Indígena,2445.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Mototáxi,Branca,532.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Mototáxi,Preta,178.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Mototáxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Mototáxi,Parda,1547.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Mototáxi,Indígena,165.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Automóvel,Branca,18786.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Automóvel,Preta,4775.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Automóvel,Amarela,163.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Automóvel,Parda,36293.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Automóvel,Indígena,1489.0,Particular,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Táxi,Branca,693.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Táxi,Preta,196.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Táxi,Parda,1667.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Táxi,Indígena,193.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Van,Branca,151.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Van,Preta,75.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Van,Parda,587.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Van,Indígena,37.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Ônibus,Branca,1775.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Ônibus,Preta,947.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Ônibus,Amarela,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Ônibus,Parda,6326.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Ônibus,Indígena,436.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Pau de arara,Branca,129.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Pau de arara,Preta,60.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Pau de arara,Parda,260.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Pau de arara,Indígena,7.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação grande,Branca,29.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação grande,Preta,0.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação grande,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação grande,Parda,40.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação grande,Indígena,24.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação pequena,Branca,42.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação pequena,Preta,60.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação pequena,Parda,143.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Embarcação pequena,Indígena,38.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Outros meios,Branca,151.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Outros meios,Preta,99.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Outros meios,Parda,684.0,Outros,SIDRA 10330
+2022,UF,14,Roraima,RR,Norte,Outros meios,Indígena,86.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,A pé,Branca,59018.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,A pé,Preta,42398.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,A pé,Amarela,578.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,A pé,Parda,237461.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,A pé,Indígena,2854.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Bicicleta,Branca,38222.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Bicicleta,Preta,33362.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Bicicleta,Amarela,283.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Bicicleta,Parda,169140.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Bicicleta,Indígena,627.0,Ativo,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Motocicleta,Branca,111066.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Motocicleta,Preta,69521.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Motocicleta,Amarela,967.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Motocicleta,Parda,403327.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Motocicleta,Indígena,1406.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Mototáxi,Branca,6018.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Mototáxi,Preta,3261.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Mototáxi,Amarela,12.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Mototáxi,Parda,22124.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Mototáxi,Indígena,167.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Automóvel,Branca,104624.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Automóvel,Preta,30203.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Automóvel,Amarela,1299.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Automóvel,Parda,182857.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Automóvel,Indígena,549.0,Particular,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Táxi,Branca,3420.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Táxi,Preta,1078.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Táxi,Amarela,22.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Táxi,Parda,6233.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Táxi,Indígena,11.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Van,Branca,3023.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Van,Preta,1878.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Van,Amarela,28.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Van,Parda,10533.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Van,Indígena,39.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Ônibus,Branca,70765.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Ônibus,Preta,46599.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Ônibus,Amarela,463.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Ônibus,Parda,228347.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Ônibus,Indígena,877.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,BRT,Branca,616.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,BRT,Preta,303.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,BRT,Parda,1339.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Trem ou metrô,Branca,24.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Trem ou metrô,Preta,16.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Trem ou metrô,Parda,24.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Pau de arara,Branca,1246.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Pau de arara,Preta,681.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Pau de arara,Parda,3743.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Pau de arara,Indígena,40.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação grande,Branca,1084.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação grande,Preta,1013.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação grande,Amarela,28.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação grande,Parda,5762.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação grande,Indígena,51.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação pequena,Branca,4799.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação pequena,Preta,4724.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação pequena,Amarela,22.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação pequena,Parda,28928.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Embarcação pequena,Indígena,285.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Outros meios,Branca,2317.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Outros meios,Preta,1792.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Outros meios,Amarela,11.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Outros meios,Parda,8396.0,Outros,SIDRA 10330
+2022,UF,15,Pará,PA,Norte,Outros meios,Indígena,65.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,A pé,Branca,5427.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,A pé,Preta,4588.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,A pé,Amarela,37.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,A pé,Parda,21769.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,A pé,Indígena,348.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Bicicleta,Branca,5383.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Bicicleta,Preta,5639.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Bicicleta,Amarela,17.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Bicicleta,Parda,25050.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Bicicleta,Indígena,94.0,Ativo,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Motocicleta,Branca,5204.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Motocicleta,Preta,4363.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Motocicleta,Amarela,43.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Motocicleta,Parda,18550.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Motocicleta,Indígena,67.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Mototáxi,Branca,938.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Mototáxi,Preta,500.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Mototáxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Mototáxi,Parda,2751.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Mototáxi,Indígena,10.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Automóvel,Branca,18783.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Automóvel,Preta,8924.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Automóvel,Amarela,171.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Automóvel,Parda,40877.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Automóvel,Indígena,172.0,Particular,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Táxi,Branca,775.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Táxi,Preta,530.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Táxi,Parda,2076.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Táxi,Indígena,25.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Van,Branca,99.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Van,Preta,71.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Van,Parda,408.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Van,Indígena,5.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Ônibus,Branca,5616.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Ônibus,Preta,4295.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Ônibus,Amarela,5.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Ônibus,Parda,18228.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Ônibus,Indígena,90.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Pau de arara,Branca,54.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Pau de arara,Preta,24.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Pau de arara,Parda,231.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Pau de arara,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação grande,Branca,92.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação grande,Preta,142.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação grande,Parda,420.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação grande,Indígena,10.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação pequena,Branca,241.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação pequena,Preta,311.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação pequena,Parda,2461.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Embarcação pequena,Indígena,25.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Outros meios,Branca,98.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Outros meios,Preta,120.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Outros meios,Parda,407.0,Outros,SIDRA 10330
+2022,UF,16,Amapá,AP,Norte,Outros meios,Indígena,34.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,A pé,Branca,13882.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,A pé,Preta,11948.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,A pé,Amarela,177.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,A pé,Parda,46696.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,A pé,Indígena,1023.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Bicicleta,Branca,8032.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Bicicleta,Preta,8885.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Bicicleta,Amarela,111.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Bicicleta,Parda,31937.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Bicicleta,Indígena,167.0,Ativo,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Motocicleta,Branca,34117.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Motocicleta,Preta,27849.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Motocicleta,Amarela,337.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Motocicleta,Parda,108576.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Motocicleta,Indígena,554.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Mototáxi,Branca,1068.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Mototáxi,Preta,562.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Mototáxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Mototáxi,Parda,2778.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Mototáxi,Indígena,30.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Automóvel,Branca,47108.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Automóvel,Preta,15769.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Automóvel,Amarela,474.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Automóvel,Parda,77406.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Automóvel,Indígena,256.0,Particular,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Táxi,Branca,358.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Táxi,Preta,123.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Táxi,Amarela,21.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Táxi,Parda,838.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Táxi,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Van,Branca,677.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Van,Preta,523.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Van,Amarela,9.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Van,Parda,2042.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Van,Indígena,7.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Ônibus,Branca,6200.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Ônibus,Preta,6060.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Ônibus,Amarela,149.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Ônibus,Parda,22177.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Ônibus,Indígena,122.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Pau de arara,Branca,538.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Pau de arara,Preta,283.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Pau de arara,Amarela,11.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Pau de arara,Parda,1110.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Pau de arara,Indígena,16.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação grande,Branca,24.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação grande,Preta,8.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação grande,Parda,126.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação pequena,Branca,37.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação pequena,Preta,96.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação pequena,Parda,210.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Embarcação pequena,Indígena,47.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Outros meios,Branca,314.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Outros meios,Preta,342.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Outros meios,Parda,894.0,Outros,SIDRA 10330
+2022,UF,17,Tocantins,TO,Norte,Outros meios,Indígena,17.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,A pé,Branca,60689.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,A pé,Preta,58084.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,A pé,Amarela,502.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,A pé,Parda,234238.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,A pé,Indígena,2437.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Bicicleta,Branca,20145.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Bicicleta,Preta,21013.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Bicicleta,Amarela,137.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Bicicleta,Parda,79862.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Bicicleta,Indígena,271.0,Ativo,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Motocicleta,Branca,114537.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Motocicleta,Preta,79997.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Motocicleta,Amarela,504.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Motocicleta,Parda,384521.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Motocicleta,Indígena,1534.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Mototáxi,Branca,3675.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Mototáxi,Preta,2920.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Mototáxi,Amarela,42.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Mototáxi,Parda,11564.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Mototáxi,Indígena,56.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Automóvel,Branca,93942.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Automóvel,Preta,33858.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Automóvel,Amarela,343.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Automóvel,Parda,150955.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Automóvel,Indígena,437.0,Particular,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Táxi,Branca,2079.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Táxi,Preta,1247.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Táxi,Amarela,24.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Táxi,Parda,3882.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Táxi,Indígena,8.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Van,Branca,2508.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Van,Preta,2359.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Van,Parda,7666.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Van,Indígena,32.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Ônibus,Branca,45002.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Ônibus,Preta,45713.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Ônibus,Amarela,215.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Ônibus,Parda,131745.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Ônibus,Indígena,432.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Trem ou metrô,Branca,22.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Trem ou metrô,Preta,20.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Trem ou metrô,Parda,70.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Pau de arara,Branca,570.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Pau de arara,Preta,390.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Pau de arara,Parda,2032.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Pau de arara,Indígena,27.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação grande,Branca,286.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação grande,Preta,240.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação grande,Parda,710.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação grande,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação pequena,Branca,882.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação pequena,Preta,1054.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação pequena,Amarela,9.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação pequena,Parda,4807.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Embarcação pequena,Indígena,15.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Outros meios,Branca,1718.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Outros meios,Preta,1850.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Outros meios,Parda,6367.0,Outros,SIDRA 10330
+2022,UF,21,Maranhão,MA,Nordeste,Outros meios,Indígena,23.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,A pé,Branca,27450.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,A pé,Preta,23023.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,A pé,Amarela,107.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,A pé,Parda,89328.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,A pé,Indígena,284.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Bicicleta,Branca,10633.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Bicicleta,Preta,11749.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Bicicleta,Amarela,82.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Bicicleta,Parda,43409.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Bicicleta,Indígena,144.0,Ativo,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Motocicleta,Branca,74099.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Motocicleta,Preta,50891.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Motocicleta,Amarela,295.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Motocicleta,Parda,230450.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Motocicleta,Indígena,456.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Mototáxi,Branca,1938.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Mototáxi,Preta,1441.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Mototáxi,Amarela,19.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Mototáxi,Parda,5721.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Mototáxi,Indígena,18.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Automóvel,Branca,59608.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Automóvel,Preta,18512.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Automóvel,Amarela,197.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Automóvel,Parda,91695.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Automóvel,Indígena,161.0,Particular,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Táxi,Branca,1254.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Táxi,Preta,824.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Táxi,Parda,3871.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Táxi,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Van,Branca,1379.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Van,Preta,723.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Van,Amarela,19.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Van,Parda,3177.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Van,Indígena,32.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Ônibus,Branca,12278.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Ônibus,Preta,11020.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Ônibus,Amarela,81.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Ônibus,Parda,39916.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Ônibus,Indígena,117.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,BRT,Parda,4.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Trem ou metrô,Branca,65.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Trem ou metrô,Preta,19.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Trem ou metrô,Parda,221.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Pau de arara,Branca,358.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Pau de arara,Preta,215.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Pau de arara,Parda,964.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Pau de arara,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação grande,Branca,7.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação grande,Preta,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação grande,Parda,54.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação pequena,Branca,117.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação pequena,Preta,102.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação pequena,Parda,473.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Embarcação pequena,Indígena,5.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Outros meios,Branca,691.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Outros meios,Preta,429.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Outros meios,Parda,1750.0,Outros,SIDRA 10330
+2022,UF,22,Piauí,PI,Nordeste,Outros meios,Indígena,9.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,A pé,Branca,113783.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,A pé,Preta,45448.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,A pé,Amarela,936.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,A pé,Parda,312249.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,A pé,Indígena,2542.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Bicicleta,Branca,41378.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Bicicleta,Preta,22398.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Bicicleta,Amarela,166.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Bicicleta,Parda,135715.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Bicicleta,Indígena,1305.0,Ativo,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Motocicleta,Branca,194157.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Motocicleta,Preta,59699.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Motocicleta,Amarela,831.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Motocicleta,Parda,491964.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Motocicleta,Indígena,2983.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Mototáxi,Branca,6849.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Mototáxi,Preta,2062.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Mototáxi,Amarela,36.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Mototáxi,Parda,16175.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Mototáxi,Indígena,102.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Automóvel,Branca,184764.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Automóvel,Preta,25548.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Automóvel,Amarela,717.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Automóvel,Parda,234911.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Automóvel,Indígena,955.0,Particular,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Táxi,Branca,5967.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Táxi,Preta,930.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Táxi,Parda,7315.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Táxi,Indígena,37.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Van,Branca,5982.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Van,Preta,2120.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Van,Amarela,63.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Van,Parda,17253.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Van,Indígena,32.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Ônibus,Branca,92192.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Ônibus,Preta,36378.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Ônibus,Amarela,445.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Ônibus,Parda,236933.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Ônibus,Indígena,2014.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,BRT,Branca,931.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,BRT,Preta,286.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,BRT,Parda,1532.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,BRT,Indígena,10.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Trem ou metrô,Branca,2893.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Trem ou metrô,Preta,978.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Trem ou metrô,Amarela,26.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Trem ou metrô,Parda,6565.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Trem ou metrô,Indígena,29.0,Público,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Pau de arara,Branca,1119.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Pau de arara,Preta,504.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Pau de arara,Parda,3032.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Pau de arara,Indígena,34.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação grande,Branca,129.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação grande,Preta,90.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação grande,Parda,247.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação grande,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação pequena,Branca,229.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação pequena,Preta,119.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação pequena,Parda,577.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Embarcação pequena,Indígena,15.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Outros meios,Branca,2574.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Outros meios,Preta,1219.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Outros meios,Amarela,33.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Outros meios,Parda,6619.0,Outros,SIDRA 10330
+2022,UF,23,Ceará,CE,Nordeste,Outros meios,Indígena,50.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,A pé,Branca,62300.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,A pé,Preta,21806.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,A pé,Amarela,275.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,A pé,Parda,94272.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,A pé,Indígena,473.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Bicicleta,Branca,13973.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Bicicleta,Preta,7606.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Bicicleta,Amarela,166.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Bicicleta,Parda,27055.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Bicicleta,Indígena,121.0,Ativo,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Motocicleta,Branca,100488.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Motocicleta,Preta,26581.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Motocicleta,Amarela,438.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Motocicleta,Parda,135516.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Motocicleta,Indígena,441.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Mototáxi,Branca,3891.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Mototáxi,Preta,1278.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Mototáxi,Amarela,2.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Mototáxi,Parda,5332.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Mototáxi,Indígena,36.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Automóvel,Branca,118027.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Automóvel,Preta,18006.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Automóvel,Amarela,318.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Automóvel,Parda,100373.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Automóvel,Indígena,395.0,Particular,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Táxi,Branca,3247.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Táxi,Preta,919.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Táxi,Parda,3518.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Táxi,Indígena,17.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Van,Branca,3218.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Van,Preta,969.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Van,Amarela,14.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Van,Parda,4895.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Van,Indígena,31.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Ônibus,Branca,52073.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Ônibus,Preta,20013.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Ônibus,Amarela,224.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Ônibus,Parda,77815.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Ônibus,Indígena,354.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Trem ou metrô,Branca,364.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Trem ou metrô,Preta,312.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Trem ou metrô,Parda,1019.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Pau de arara,Branca,744.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Pau de arara,Preta,199.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Pau de arara,Parda,939.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Pau de arara,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação grande,Branca,66.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação grande,Preta,17.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação grande,Parda,177.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação pequena,Branca,142.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação pequena,Preta,165.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação pequena,Parda,566.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Embarcação pequena,Indígena,10.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Outros meios,Branca,1807.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Outros meios,Preta,926.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Outros meios,Parda,2719.0,Outros,SIDRA 10330
+2022,UF,24,Rio Grande do Norte,RN,Nordeste,Outros meios,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,A pé,Branca,70487.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,A pé,Preta,24415.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,A pé,Amarela,260.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,A pé,Parda,128513.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,A pé,Indígena,1855.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Bicicleta,Branca,12084.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Bicicleta,Preta,6252.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Bicicleta,Amarela,75.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Bicicleta,Parda,25221.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Bicicleta,Indígena,230.0,Ativo,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Motocicleta,Branca,105979.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Motocicleta,Preta,30208.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Motocicleta,Amarela,383.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Motocicleta,Parda,188159.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Motocicleta,Indígena,1857.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Mototáxi,Branca,4301.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Mototáxi,Preta,1321.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Mototáxi,Amarela,16.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Mototáxi,Parda,7201.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Mototáxi,Indígena,62.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Automóvel,Branca,116198.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Automóvel,Preta,18846.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Automóvel,Amarela,577.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Automóvel,Parda,123664.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Automóvel,Indígena,701.0,Particular,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Táxi,Branca,4317.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Táxi,Preta,833.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Táxi,Amarela,2.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Táxi,Parda,4926.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Táxi,Indígena,91.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Van,Branca,3083.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Van,Preta,622.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Van,Amarela,19.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Van,Parda,4324.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Van,Indígena,4.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Ônibus,Branca,43964.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Ônibus,Preta,17097.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Ônibus,Amarela,179.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Ônibus,Parda,78274.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Ônibus,Indígena,846.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,BRT,Parda,5.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Trem ou metrô,Branca,274.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Trem ou metrô,Preta,240.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Trem ou metrô,Parda,660.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Pau de arara,Branca,754.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Pau de arara,Preta,168.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Pau de arara,Parda,1288.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Pau de arara,Indígena,18.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação grande,Branca,48.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação grande,Preta,35.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação grande,Parda,93.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação grande,Indígena,12.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação pequena,Branca,110.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação pequena,Preta,31.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação pequena,Parda,252.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Embarcação pequena,Indígena,84.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Outros meios,Branca,1317.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Outros meios,Preta,496.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Outros meios,Amarela,31.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Outros meios,Parda,1872.0,Outros,SIDRA 10330
+2022,UF,25,Paraíba,PB,Nordeste,Outros meios,Indígena,46.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,A pé,Branca,191737.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,A pé,Preta,78802.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,A pé,Amarela,945.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,A pé,Parda,353916.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,A pé,Indígena,6971.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Bicicleta,Branca,36491.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Bicicleta,Preta,25421.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Bicicleta,Amarela,235.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Bicicleta,Parda,87080.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Bicicleta,Indígena,841.0,Ativo,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Motocicleta,Branca,144144.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Motocicleta,Preta,46806.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Motocicleta,Amarela,629.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Motocicleta,Parda,254996.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Motocicleta,Indígena,4484.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Mototáxi,Branca,11277.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Mototáxi,Preta,3860.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Mototáxi,Amarela,53.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Mototáxi,Parda,18941.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Mototáxi,Indígena,183.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Automóvel,Branca,244131.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Automóvel,Preta,43955.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Automóvel,Amarela,1199.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Automóvel,Parda,235016.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Automóvel,Indígena,2604.0,Particular,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Táxi,Branca,7502.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Táxi,Preta,1445.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Táxi,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Táxi,Parda,6440.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Táxi,Indígena,75.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Van,Branca,14088.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Van,Preta,5488.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Van,Amarela,41.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Van,Parda,24425.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Van,Indígena,447.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Ônibus,Branca,156381.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Ônibus,Preta,84915.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Ônibus,Amarela,584.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Ônibus,Parda,296979.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Ônibus,Indígena,1496.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,BRT,Branca,3640.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,BRT,Preta,1935.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,BRT,Amarela,38.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,BRT,Parda,6222.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,BRT,Indígena,44.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Trem ou metrô,Branca,4394.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Trem ou metrô,Preta,2587.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Trem ou metrô,Amarela,42.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Trem ou metrô,Parda,8337.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Trem ou metrô,Indígena,62.0,Público,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Pau de arara,Branca,2309.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Pau de arara,Preta,782.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Pau de arara,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Pau de arara,Parda,3572.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Pau de arara,Indígena,19.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação grande,Branca,175.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação grande,Preta,86.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação grande,Parda,214.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação grande,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação pequena,Branca,359.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação pequena,Preta,415.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação pequena,Amarela,26.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação pequena,Parda,890.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Embarcação pequena,Indígena,33.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Outros meios,Branca,3771.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Outros meios,Preta,1447.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Outros meios,Parda,6509.0,Outros,SIDRA 10330
+2022,UF,26,Pernambuco,PE,Nordeste,Outros meios,Indígena,157.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,A pé,Branca,54719.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,A pé,Preta,25395.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,A pé,Amarela,528.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,A pé,Parda,131967.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,A pé,Indígena,1693.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Bicicleta,Branca,11432.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Bicicleta,Preta,7720.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Bicicleta,Amarela,43.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Bicicleta,Parda,32437.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Bicicleta,Indígena,285.0,Ativo,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Motocicleta,Branca,47537.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Motocicleta,Preta,18932.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Motocicleta,Amarela,303.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Motocicleta,Parda,107747.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Motocicleta,Indígena,1050.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Mototáxi,Branca,2804.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Mototáxi,Preta,1105.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Mototáxi,Amarela,11.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Mototáxi,Parda,6099.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Mototáxi,Indígena,11.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Automóvel,Branca,73446.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Automóvel,Preta,16117.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Automóvel,Amarela,295.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Automóvel,Parda,93180.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Automóvel,Indígena,493.0,Particular,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Táxi,Branca,2416.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Táxi,Preta,1172.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Táxi,Parda,3610.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Táxi,Indígena,24.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Van,Branca,6751.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Van,Preta,3507.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Van,Amarela,50.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Van,Parda,16478.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Van,Indígena,147.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Ônibus,Branca,38582.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Ônibus,Preta,20913.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Ônibus,Amarela,319.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Ônibus,Parda,83515.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Ônibus,Indígena,389.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Trem ou metrô,Branca,79.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Trem ou metrô,Preta,44.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Trem ou metrô,Amarela,2.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Trem ou metrô,Parda,273.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Pau de arara,Branca,343.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Pau de arara,Preta,146.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Pau de arara,Amarela,14.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Pau de arara,Parda,985.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Pau de arara,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação grande,Branca,92.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação grande,Preta,3.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação grande,Parda,137.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação pequena,Branca,260.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação pequena,Preta,276.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação pequena,Parda,834.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Embarcação pequena,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Outros meios,Branca,1175.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Outros meios,Preta,474.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Outros meios,Parda,2448.0,Outros,SIDRA 10330
+2022,UF,27,Alagoas,AL,Nordeste,Outros meios,Indígena,9.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,A pé,Branca,31463.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,A pé,Preta,21690.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,A pé,Amarela,256.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,A pé,Parda,90327.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,A pé,Indígena,329.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Bicicleta,Branca,11514.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Bicicleta,Preta,10248.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Bicicleta,Amarela,81.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Bicicleta,Parda,34540.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Bicicleta,Indígena,196.0,Ativo,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Motocicleta,Branca,35259.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Motocicleta,Preta,18723.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Motocicleta,Amarela,186.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Motocicleta,Parda,93041.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Motocicleta,Indígena,298.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Mototáxi,Branca,1435.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Mototáxi,Preta,1055.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Mototáxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Mototáxi,Parda,3957.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Mototáxi,Indígena,27.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Automóvel,Branca,49531.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Automóvel,Preta,18884.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Automóvel,Amarela,255.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Automóvel,Parda,80049.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Automóvel,Indígena,296.0,Particular,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Táxi,Branca,2884.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Táxi,Preta,1393.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Táxi,Amarela,22.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Táxi,Parda,6661.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Táxi,Indígena,39.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Van,Branca,1668.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Van,Preta,1159.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Van,Parda,4362.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Van,Indígena,4.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Ônibus,Branca,23329.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Ônibus,Preta,25306.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Ônibus,Amarela,210.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Ônibus,Parda,70579.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Ônibus,Indígena,615.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Pau de arara,Branca,487.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Pau de arara,Preta,263.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Pau de arara,Parda,1325.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Pau de arara,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação grande,Branca,11.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação grande,Preta,24.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação grande,Parda,114.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação pequena,Branca,132.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação pequena,Preta,357.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação pequena,Amarela,17.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação pequena,Parda,841.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Embarcação pequena,Indígena,2.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Outros meios,Branca,946.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Outros meios,Preta,754.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Outros meios,Amarela,4.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Outros meios,Parda,3062.0,Outros,SIDRA 10330
+2022,UF,28,Sergipe,SE,Nordeste,Outros meios,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,A pé,Branca,192825.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,A pé,Preta,295674.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,A pé,Amarela,1197.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,A pé,Parda,638382.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,A pé,Indígena,8526.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Bicicleta,Branca,41876.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Bicicleta,Preta,76916.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Bicicleta,Amarela,191.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Bicicleta,Parda,161948.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Bicicleta,Indígena,2306.0,Ativo,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Motocicleta,Branca,162712.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Motocicleta,Preta,171940.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Motocicleta,Amarela,781.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Motocicleta,Parda,477238.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Motocicleta,Indígena,4840.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Mototáxi,Branca,7831.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Mototáxi,Preta,12130.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Mototáxi,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Mototáxi,Parda,23777.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Mototáxi,Indígena,164.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Automóvel,Branca,230324.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Automóvel,Preta,154893.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Automóvel,Amarela,1348.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Automóvel,Parda,407963.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Automóvel,Indígena,3126.0,Particular,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Táxi,Branca,5782.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Táxi,Preta,5722.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Táxi,Amarela,76.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Táxi,Parda,11668.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Táxi,Indígena,104.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Van,Branca,10263.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Van,Preta,23904.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Van,Amarela,43.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Van,Parda,40311.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Van,Indígena,418.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Ônibus,Branca,87322.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Ônibus,Preta,244133.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Ônibus,Amarela,524.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Ônibus,Parda,354799.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Ônibus,Indígena,3555.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,BRT,Branca,794.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,BRT,Preta,2936.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,BRT,Parda,2995.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Trem ou metrô,Branca,3374.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Trem ou metrô,Preta,7629.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Trem ou metrô,Parda,10351.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Trem ou metrô,Indígena,9.0,Público,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Pau de arara,Branca,2240.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Pau de arara,Preta,2325.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Pau de arara,Amarela,16.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Pau de arara,Parda,6334.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Pau de arara,Indígena,33.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação grande,Branca,519.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação grande,Preta,1103.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação grande,Parda,1694.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação grande,Indígena,59.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação pequena,Branca,711.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação pequena,Preta,3247.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação pequena,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação pequena,Parda,4838.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Embarcação pequena,Indígena,41.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Outros meios,Branca,3671.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Outros meios,Preta,5127.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Outros meios,Amarela,19.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Outros meios,Parda,12053.0,Outros,SIDRA 10330
+2022,UF,29,Bahia,BA,Nordeste,Outros meios,Indígena,150.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,A pé,Branca,671945.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,A pé,Preta,253824.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,A pé,Amarela,2389.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,A pé,Parda,836551.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,A pé,Indígena,3151.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Bicicleta,Branca,144407.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Bicicleta,Preta,76891.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Bicicleta,Amarela,516.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Bicicleta,Parda,258069.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Bicicleta,Indígena,685.0,Ativo,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Motocicleta,Branca,423242.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Motocicleta,Preta,132276.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Motocicleta,Amarela,987.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Motocicleta,Parda,548108.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Motocicleta,Indígena,1308.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Mototáxi,Branca,15682.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Mototáxi,Preta,6013.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Mototáxi,Amarela,29.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Mototáxi,Parda,21057.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Mototáxi,Indígena,69.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Automóvel,Branca,1123244.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Automóvel,Preta,205176.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Automóvel,Amarela,5002.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Automóvel,Parda,829795.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Automóvel,Indígena,1301.0,Particular,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Táxi,Branca,16521.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Táxi,Preta,3341.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Táxi,Amarela,139.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Táxi,Parda,11124.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Táxi,Indígena,36.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Van,Branca,32892.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Van,Preta,14552.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Van,Amarela,72.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Van,Parda,45907.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Van,Indígena,60.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Ônibus,Branca,484059.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Ônibus,Preta,306505.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Ônibus,Amarela,1881.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Ônibus,Parda,778946.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Ônibus,Indígena,1838.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,BRT,Branca,6346.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,BRT,Preta,4216.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,BRT,Amarela,21.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,BRT,Parda,8711.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,BRT,Indígena,33.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Trem ou metrô,Branca,4049.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Trem ou metrô,Preta,1401.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Trem ou metrô,Parda,4116.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Pau de arara,Branca,13105.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Pau de arara,Preta,3437.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Pau de arara,Amarela,37.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Pau de arara,Parda,14079.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Pau de arara,Indígena,22.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação grande,Branca,795.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação grande,Preta,464.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação grande,Parda,1158.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação grande,Indígena,11.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação pequena,Branca,632.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação pequena,Preta,369.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação pequena,Parda,971.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Embarcação pequena,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Outros meios,Branca,13066.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Outros meios,Preta,4421.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Outros meios,Amarela,62.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Outros meios,Parda,14565.0,Outros,SIDRA 10330
+2022,UF,31,Minas Gerais,MG,Sudeste,Outros meios,Indígena,34.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,A pé,Branca,84769.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,A pé,Preta,31964.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,A pé,Amarela,402.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,A pé,Parda,118939.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,A pé,Indígena,740.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Bicicleta,Branca,33366.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Bicicleta,Preta,19338.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Bicicleta,Amarela,203.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Bicicleta,Parda,65638.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Bicicleta,Indígena,521.0,Ativo,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Motocicleta,Branca,81528.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Motocicleta,Preta,22927.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Motocicleta,Amarela,124.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Motocicleta,Parda,102572.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Motocicleta,Indígena,598.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Mototáxi,Branca,1869.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Mototáxi,Preta,593.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Mototáxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Mototáxi,Parda,2677.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Mototáxi,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Automóvel,Branca,170285.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Automóvel,Preta,31324.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Automóvel,Amarela,713.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Automóvel,Parda,136111.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Automóvel,Indígena,878.0,Particular,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Táxi,Branca,1925.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Táxi,Preta,491.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Táxi,Parda,1721.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Táxi,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Van,Branca,2396.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Van,Preta,1227.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Van,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Van,Parda,3806.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Van,Indígena,30.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Ônibus,Branca,93698.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Ônibus,Preta,62019.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Ônibus,Amarela,456.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Ônibus,Parda,187201.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Ônibus,Indígena,977.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Trem ou metrô,Branca,15.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Trem ou metrô,Parda,21.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Pau de arara,Branca,1525.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Pau de arara,Preta,774.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Pau de arara,Parda,2861.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Pau de arara,Indígena,19.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação grande,Branca,138.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação grande,Preta,64.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação grande,Parda,201.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação grande,Indígena,12.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação pequena,Branca,119.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação pequena,Preta,109.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação pequena,Parda,428.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Embarcação pequena,Indígena,8.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Outros meios,Branca,1636.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Outros meios,Preta,516.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Outros meios,Parda,2156.0,Outros,SIDRA 10330
+2022,UF,32,Espírito Santo,ES,Sudeste,Outros meios,Indígena,12.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,A pé,Branca,303008.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,A pé,Preta,155899.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,A pé,Amarela,1372.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,A pé,Parda,334617.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,A pé,Indígena,1063.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Bicicleta,Branca,107473.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Bicicleta,Preta,70953.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Bicicleta,Amarela,229.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Bicicleta,Parda,158662.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Bicicleta,Indígena,421.0,Ativo,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Motocicleta,Branca,123347.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Motocicleta,Preta,46586.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Motocicleta,Amarela,286.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Motocicleta,Parda,126952.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Motocicleta,Indígena,226.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Mototáxi,Branca,8417.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Mototáxi,Preta,5382.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Mototáxi,Amarela,41.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Mototáxi,Parda,13231.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Mototáxi,Indígena,4.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Automóvel,Branca,686667.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Automóvel,Preta,140093.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Automóvel,Amarela,2247.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Automóvel,Parda,402805.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Automóvel,Indígena,1189.0,Particular,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Táxi,Branca,32023.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Táxi,Preta,5334.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Táxi,Amarela,152.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Táxi,Parda,13265.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Táxi,Indígena,101.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Van,Branca,36533.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Van,Preta,21571.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Van,Amarela,74.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Van,Parda,49358.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Van,Indígena,129.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Ônibus,Branca,618070.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Ônibus,Preta,383871.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Ônibus,Amarela,1338.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Ônibus,Parda,780401.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Ônibus,Indígena,2094.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,BRT,Branca,29192.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,BRT,Preta,20395.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,BRT,Amarela,133.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,BRT,Parda,41592.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,BRT,Indígena,104.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Trem ou metrô,Branca,107665.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Trem ou metrô,Preta,47259.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Trem ou metrô,Amarela,681.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Trem ou metrô,Parda,86550.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Trem ou metrô,Indígena,286.0,Público,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Pau de arara,Branca,4030.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Pau de arara,Preta,1347.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Pau de arara,Amarela,11.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Pau de arara,Parda,3922.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Pau de arara,Indígena,21.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação grande,Branca,5781.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação grande,Preta,601.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação grande,Amarela,2.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação grande,Parda,2383.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação grande,Indígena,22.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação pequena,Branca,1118.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação pequena,Preta,359.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação pequena,Amarela,12.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação pequena,Parda,1128.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Embarcação pequena,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Outros meios,Branca,11048.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Outros meios,Preta,4164.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Outros meios,Amarela,59.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Outros meios,Parda,8450.0,Outros,SIDRA 10330
+2022,UF,33,Rio de Janeiro,RJ,Sudeste,Outros meios,Indígena,15.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,A pé,Branca,1166500.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,A pé,Preta,222136.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,A pé,Amarela,20546.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,A pé,Parda,829941.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,A pé,Indígena,3613.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Bicicleta,Branca,311188.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Bicicleta,Preta,74588.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Bicicleta,Amarela,2334.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Bicicleta,Parda,291177.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Bicicleta,Indígena,1079.0,Ativo,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Motocicleta,Branca,949694.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Motocicleta,Preta,131047.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Motocicleta,Amarela,6143.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Motocicleta,Parda,576808.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Motocicleta,Indígena,1356.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Mototáxi,Branca,40694.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Mototáxi,Preta,7017.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Mototáxi,Amarela,419.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Mototáxi,Parda,27718.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Mototáxi,Indígena,171.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Automóvel,Branca,4162486.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Automóvel,Preta,403928.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Automóvel,Amarela,100965.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Automóvel,Parda,1519455.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Automóvel,Indígena,5211.0,Particular,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Táxi,Branca,54695.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Táxi,Preta,6395.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Táxi,Amarela,1834.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Táxi,Parda,18126.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Táxi,Indígena,156.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Van,Branca,115117.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Van,Preta,22639.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Van,Amarela,1227.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Van,Parda,86910.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Van,Indígena,270.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Ônibus,Branca,1888460.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Ônibus,Preta,564963.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Ônibus,Amarela,20581.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Ônibus,Parda,1758622.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Ônibus,Indígena,5748.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,BRT,Branca,18499.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,BRT,Preta,4857.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,BRT,Amarela,405.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,BRT,Parda,13056.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,BRT,Indígena,99.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Trem ou metrô,Branca,361247.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Trem ou metrô,Preta,99068.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Trem ou metrô,Amarela,12628.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Trem ou metrô,Parda,254090.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Trem ou metrô,Indígena,1155.0,Público,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Pau de arara,Branca,26997.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Pau de arara,Preta,2999.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Pau de arara,Amarela,411.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Pau de arara,Parda,15153.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Pau de arara,Indígena,37.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação grande,Branca,3915.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação grande,Preta,836.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação grande,Amarela,53.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação grande,Parda,2835.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação grande,Indígena,4.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação pequena,Branca,2446.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação pequena,Preta,488.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação pequena,Amarela,102.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação pequena,Parda,2060.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Embarcação pequena,Indígena,1.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Outros meios,Branca,40873.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Outros meios,Preta,6999.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Outros meios,Amarela,698.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Outros meios,Parda,23656.0,Outros,SIDRA 10330
+2022,UF,35,São Paulo,SP,Sudeste,Outros meios,Indígena,101.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,A pé,Branca,418403.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,A pé,Preta,38360.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,A pé,Amarela,5749.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,A pé,Parda,237997.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,A pé,Indígena,1579.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Bicicleta,Branca,120293.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Bicicleta,Preta,16502.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Bicicleta,Amarela,994.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Bicicleta,Parda,94133.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Bicicleta,Indígena,414.0,Ativo,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Motocicleta,Branca,326199.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Motocicleta,Preta,29529.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Motocicleta,Amarela,2443.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Motocicleta,Parda,204581.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Motocicleta,Indígena,529.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Mototáxi,Branca,10947.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Mototáxi,Preta,997.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Mototáxi,Amarela,66.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Mototáxi,Parda,6227.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Mototáxi,Indígena,11.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Automóvel,Branca,1377908.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Automóvel,Preta,76621.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Automóvel,Amarela,24559.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Automóvel,Parda,485961.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Automóvel,Indígena,1575.0,Particular,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Táxi,Branca,10918.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Táxi,Preta,951.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Táxi,Amarela,320.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Táxi,Parda,3603.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Táxi,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Van,Branca,26641.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Van,Preta,2867.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Van,Amarela,108.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Van,Parda,17340.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Van,Indígena,75.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Ônibus,Branca,412819.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Ônibus,Preta,57547.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Ônibus,Amarela,3337.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Ônibus,Parda,278533.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Ônibus,Indígena,1326.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,BRT,Branca,2757.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,BRT,Preta,139.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,BRT,Amarela,90.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,BRT,Parda,1107.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Pau de arara,Branca,11782.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Pau de arara,Preta,948.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Pau de arara,Amarela,108.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Pau de arara,Parda,5993.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Pau de arara,Indígena,52.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação grande,Branca,1095.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação grande,Preta,59.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação grande,Amarela,28.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação grande,Parda,573.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação pequena,Branca,1015.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação pequena,Preta,149.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação pequena,Amarela,17.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação pequena,Parda,1023.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Embarcação pequena,Indígena,14.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Outros meios,Branca,13260.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Outros meios,Preta,975.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Outros meios,Amarela,176.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Outros meios,Parda,6348.0,Outros,SIDRA 10330
+2022,UF,41,Paraná,PR,Sul,Outros meios,Indígena,58.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,A pé,Branca,358940.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,A pé,Preta,28819.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,A pé,Amarela,877.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,A pé,Parda,118311.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,A pé,Indígena,1389.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Bicicleta,Branca,140409.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Bicicleta,Preta,20574.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Bicicleta,Amarela,300.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Bicicleta,Parda,67925.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Bicicleta,Indígena,406.0,Ativo,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Motocicleta,Branca,284681.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Motocicleta,Preta,16699.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Motocicleta,Amarela,490.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Motocicleta,Parda,82221.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Motocicleta,Indígena,718.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Mototáxi,Branca,10396.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Mototáxi,Preta,713.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Mototáxi,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Mototáxi,Parda,3011.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Mototáxi,Indígena,15.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Automóvel,Branca,1174497.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Automóvel,Preta,45394.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Automóvel,Amarela,2818.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Automóvel,Parda,227937.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Automóvel,Indígena,1894.0,Particular,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Táxi,Branca,8525.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Táxi,Preta,867.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Táxi,Amarela,66.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Táxi,Parda,2868.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Táxi,Indígena,42.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Van,Branca,22841.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Van,Preta,2610.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Van,Amarela,39.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Van,Parda,10504.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Van,Indígena,183.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Ônibus,Branca,229474.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Ônibus,Preta,34822.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Ônibus,Amarela,688.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Ônibus,Parda,103930.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Ônibus,Indígena,1498.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,BRT,Parda,22.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Pau de arara,Branca,6819.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Pau de arara,Preta,298.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Pau de arara,Parda,1445.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Pau de arara,Indígena,18.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação grande,Branca,727.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação grande,Preta,48.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação grande,Amarela,2.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação grande,Parda,278.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação pequena,Branca,971.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação pequena,Preta,32.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação pequena,Parda,371.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Embarcação pequena,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Outros meios,Branca,9304.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Outros meios,Preta,603.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Outros meios,Amarela,12.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Outros meios,Parda,2449.0,Outros,SIDRA 10330
+2022,UF,42,Santa Catarina,SC,Sul,Outros meios,Indígena,18.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,A pé,Branca,570266.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,A pé,Preta,56788.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,A pé,Amarela,624.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,A pé,Parda,132269.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,A pé,Indígena,2000.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Bicicleta,Branca,123792.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Bicicleta,Preta,18575.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Bicicleta,Amarela,72.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Bicicleta,Parda,36816.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Bicicleta,Indígena,441.0,Ativo,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Motocicleta,Branca,263261.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Motocicleta,Preta,18253.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Motocicleta,Amarela,200.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Motocicleta,Parda,53203.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Motocicleta,Indígena,402.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Mototáxi,Branca,11119.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Mototáxi,Preta,1003.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Mototáxi,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Mototáxi,Parda,2264.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Mototáxi,Indígena,3.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Automóvel,Branca,1500020.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Automóvel,Preta,77670.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Automóvel,Amarela,1489.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Automóvel,Parda,210028.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Automóvel,Indígena,1801.0,Particular,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Táxi,Branca,29875.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Táxi,Preta,3188.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Táxi,Amarela,80.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Táxi,Parda,4275.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Táxi,Indígena,106.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Van,Branca,44115.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Van,Preta,5510.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Van,Amarela,20.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Van,Parda,12221.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Van,Indígena,108.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Ônibus,Branca,488266.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Ônibus,Preta,107044.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Ônibus,Amarela,425.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Ônibus,Parda,144575.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Ônibus,Indígena,2822.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,BRT,Branca,1547.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,BRT,Preta,340.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,BRT,Parda,219.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Trem ou metrô,Branca,20495.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Trem ou metrô,Preta,2790.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Trem ou metrô,Amarela,39.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Trem ou metrô,Parda,4093.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Trem ou metrô,Indígena,21.0,Público,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Pau de arara,Branca,11702.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Pau de arara,Preta,589.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Pau de arara,Amarela,9.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Pau de arara,Parda,2035.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Pau de arara,Indígena,33.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação grande,Branca,1530.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação grande,Preta,293.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação grande,Parda,467.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação grande,Indígena,2.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação pequena,Branca,1375.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação pequena,Preta,98.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação pequena,Parda,333.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Embarcação pequena,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Outros meios,Branca,14953.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Outros meios,Preta,1271.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Outros meios,Amarela,4.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Outros meios,Parda,3192.0,Outros,SIDRA 10330
+2022,UF,43,Rio Grande do Sul,RS,Sul,Outros meios,Indígena,28.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,A pé,Branca,37097.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,A pé,Preta,9047.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,A pé,Amarela,698.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,A pé,Parda,51630.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,A pé,Indígena,2724.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Bicicleta,Branca,38887.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Bicicleta,Preta,11687.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Bicicleta,Amarela,317.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Bicicleta,Parda,66716.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Bicicleta,Indígena,4333.0,Ativo,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Motocicleta,Branca,78447.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Motocicleta,Preta,16404.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Motocicleta,Amarela,603.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Motocicleta,Parda,103580.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Motocicleta,Indígena,4224.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Mototáxi,Branca,2213.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Mototáxi,Preta,494.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Mototáxi,Amarela,22.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Mototáxi,Parda,3434.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Mototáxi,Indígena,131.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Automóvel,Branca,192482.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Automóvel,Preta,22565.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Automóvel,Amarela,4951.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Automóvel,Parda,142803.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Automóvel,Indígena,2759.0,Particular,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Táxi,Branca,1710.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Táxi,Preta,259.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Táxi,Amarela,23.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Táxi,Parda,1433.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Táxi,Indígena,57.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Van,Branca,2809.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Van,Preta,717.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Van,Amarela,20.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Van,Parda,3969.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Van,Indígena,161.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Ônibus,Branca,40325.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Ônibus,Preta,12985.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Ônibus,Amarela,478.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Ônibus,Parda,65515.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Ônibus,Indígena,2879.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,BRT,Branca,3.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Pau de arara,Branca,2726.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Pau de arara,Preta,430.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Pau de arara,Amarela,31.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Pau de arara,Parda,2608.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Pau de arara,Indígena,78.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação grande,Branca,122.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação grande,Preta,39.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação grande,Parda,129.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação pequena,Branca,71.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação pequena,Preta,74.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação pequena,Parda,367.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Embarcação pequena,Indígena,33.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Outros meios,Branca,1936.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Outros meios,Preta,573.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Outros meios,Amarela,29.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Outros meios,Parda,2469.0,Outros,SIDRA 10330
+2022,UF,50,Mato Grosso do Sul,MS,Centro-Oeste,Outros meios,Indígena,56.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,A pé,Branca,36432.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,A pé,Preta,16424.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,A pé,Amarela,333.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,A pé,Parda,73051.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,A pé,Indígena,1771.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Bicicleta,Branca,28412.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Bicicleta,Preta,16872.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Bicicleta,Amarela,263.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Bicicleta,Parda,76872.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Bicicleta,Indígena,658.0,Ativo,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Motocicleta,Branca,110783.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Motocicleta,Preta,47111.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Motocicleta,Amarela,672.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Motocicleta,Parda,234223.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Motocicleta,Indígena,1257.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Mototáxi,Branca,2817.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Mototáxi,Preta,1462.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Mototáxi,Amarela,81.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Mototáxi,Parda,6063.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Mototáxi,Indígena,9.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Automóvel,Branca,193230.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Automóvel,Preta,40967.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Automóvel,Amarela,2221.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Automóvel,Parda,206268.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Automóvel,Indígena,827.0,Particular,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Táxi,Branca,1238.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Táxi,Preta,544.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Táxi,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Táxi,Parda,2110.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Táxi,Indígena,5.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Van,Branca,2054.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Van,Preta,1157.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Van,Amarela,10.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Van,Parda,5622.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Van,Indígena,33.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Ônibus,Branca,25580.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Ônibus,Preta,18768.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Ônibus,Amarela,216.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Ônibus,Parda,74821.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Ônibus,Indígena,279.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,BRT,Branca,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,BRT,Preta,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,BRT,Amarela,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,BRT,Parda,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Trem ou metrô,Branca,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Trem ou metrô,Preta,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Trem ou metrô,Parda,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Pau de arara,Branca,2914.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Pau de arara,Preta,636.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Pau de arara,Amarela,12.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Pau de arara,Parda,3101.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Pau de arara,Indígena,30.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação grande,Branca,93.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação grande,Preta,10.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação grande,Parda,138.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação grande,Indígena,5.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação pequena,Branca,71.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação pequena,Preta,25.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação pequena,Parda,320.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Embarcação pequena,Indígena,70.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Outros meios,Branca,1401.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Outros meios,Preta,653.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Outros meios,Amarela,34.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Outros meios,Parda,2604.0,Outros,SIDRA 10330
+2022,UF,51,Mato Grosso,MT,Centro-Oeste,Outros meios,Indígena,11.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,A pé,Branca,109901.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,A pé,Preta,41497.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,A pé,Amarela,732.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,A pé,Parda,198424.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,A pé,Indígena,903.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Bicicleta,Branca,46639.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Bicicleta,Preta,25071.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Bicicleta,Amarela,294.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Bicicleta,Parda,102078.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Bicicleta,Indígena,301.0,Ativo,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Motocicleta,Branca,169464.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Motocicleta,Preta,57150.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Motocicleta,Amarela,1113.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Motocicleta,Parda,308749.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Motocicleta,Indígena,744.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Mototáxi,Branca,6976.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Mototáxi,Preta,2473.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Mototáxi,Amarela,52.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Mototáxi,Parda,12695.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Mototáxi,Indígena,20.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Automóvel,Branca,413173.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Automóvel,Preta,79079.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Automóvel,Amarela,3370.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Automóvel,Parda,451959.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Automóvel,Indígena,1082.0,Particular,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Táxi,Branca,4953.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Táxi,Preta,1195.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Táxi,Amarela,97.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Táxi,Parda,5368.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Táxi,Indígena,69.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Van,Branca,5683.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Van,Preta,2404.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Van,Amarela,16.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Van,Parda,11101.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Van,Indígena,24.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Ônibus,Branca,126964.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Ônibus,Preta,69412.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Ônibus,Amarela,1109.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Ônibus,Parda,285267.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Ônibus,Indígena,959.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,BRT,Branca,835.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,BRT,Preta,600.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,BRT,Amarela,30.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,BRT,Parda,2007.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,BRT,Indígena,0.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Trem ou metrô,Branca,40.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Trem ou metrô,Preta,10.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Trem ou metrô,Amarela,0.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Trem ou metrô,Parda,23.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Trem ou metrô,Indígena,0.0,Público,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Pau de arara,Branca,3748.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Pau de arara,Preta,942.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Pau de arara,Amarela,37.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Pau de arara,Parda,5105.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Pau de arara,Indígena,6.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação grande,Branca,185.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação grande,Preta,125.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação grande,Amarela,20.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação grande,Parda,569.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação pequena,Branca,198.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação pequena,Preta,88.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação pequena,Parda,506.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Embarcação pequena,Indígena,2.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Outros meios,Branca,3623.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Outros meios,Preta,1331.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Outros meios,Amarela,29.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Outros meios,Parda,5837.0,Outros,SIDRA 10330
+2022,UF,52,Goiás,GO,Centro-Oeste,Outros meios,Indígena,8.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,A pé,Branca,27530.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,A pé,Preta,13751.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,A pé,Amarela,264.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,A pé,Parda,51753.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,A pé,Indígena,248.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Bicicleta,Branca,6854.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Bicicleta,Preta,5276.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Bicicleta,Amarela,71.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Bicicleta,Parda,14614.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Bicicleta,Indígena,123.0,Ativo,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Motocicleta,Branca,12803.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Motocicleta,Preta,5154.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Motocicleta,Amarela,137.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Motocicleta,Parda,23413.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Motocicleta,Indígena,84.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Mototáxi,Branca,818.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Mototáxi,Preta,405.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Mototáxi,Amarela,22.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Mototáxi,Parda,1298.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Mototáxi,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Automóvel,Branca,248154.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Automóvel,Preta,47051.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Automóvel,Amarela,3089.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Automóvel,Parda,209563.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Automóvel,Indígena,762.0,Particular,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Táxi,Branca,2580.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Táxi,Preta,519.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Táxi,Amarela,21.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Táxi,Parda,1466.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Táxi,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Van,Branca,783.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Van,Preta,550.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Van,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Van,Parda,1305.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Van,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Ônibus,Branca,99217.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Ônibus,Preta,57174.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Ônibus,Amarela,637.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Ônibus,Parda,200927.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Ônibus,Indígena,758.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,BRT,Branca,5128.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,BRT,Preta,3095.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,BRT,Amarela,19.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,BRT,Parda,9545.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,BRT,Indígena,51.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Trem ou metrô,Branca,13104.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Trem ou metrô,Preta,4016.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Trem ou metrô,Amarela,150.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Trem ou metrô,Parda,14664.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Trem ou metrô,Indígena,41.0,Público,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Pau de arara,Branca,477.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Pau de arara,Preta,156.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Pau de arara,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Pau de arara,Parda,756.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Pau de arara,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação grande,Branca,85.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação grande,Preta,30.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação grande,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação grande,Parda,78.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação grande,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação pequena,Branca,21.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação pequena,Preta,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação pequena,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação pequena,Parda,36.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Embarcação pequena,Indígena,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Outros meios,Branca,1327.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Outros meios,Preta,623.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Outros meios,Amarela,0.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Outros meios,Parda,1526.0,Outros,SIDRA 10330
+2022,UF,53,Distrito Federal,DF,Centro-Oeste,Outros meios,Indígena,16.0,Outros,SIDRA 10330
